@@ -10,4 +10,4 @@ Perform data crawling using various methods, including YouTube through the Googl
 - Queue
 - Threading
 - Selenium
-- IPython.display
+- IPython
